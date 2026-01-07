@@ -1,0 +1,26 @@
+name: cv_proj4
+channels:
+    - conda-forge
+    - pytorch
+dependencies:
+    - bandit
+    - flake8
+    - jupyter
+    - matplotlib
+    - mypy
+    - numpy
+    - pytest
+    - python>=3.6
+    - pip
+    - pip:
+        - torch
+        - torchvision
+        - torchaudio
+        - --find-links=https://download.pytorch.org/whl/cu126
+    - pyyaml
+    - Pillow
+    - pandas
+    - opencv
+    - colour
+    - scipy
+    - imageio

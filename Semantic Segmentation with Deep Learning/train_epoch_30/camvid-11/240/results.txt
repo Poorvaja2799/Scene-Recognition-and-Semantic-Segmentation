@@ -1,0 +1,12 @@
+Eval result: mIoU/mAcc/allAcc 0.5631/0.6459/0.9055.
+Class_00 result: iou/accuracy 0.8708/0.9004, name: Building.
+Class_01 result: iou/accuracy 0.8580/0.9860, name: Tree.
+Class_02 result: iou/accuracy 0.9066/0.9456, name: Sky.
+Class_03 result: iou/accuracy 0.7812/0.8659, name: Car.
+Class_04 result: iou/accuracy 0.0000/0.0000, name: SignSymbol.
+Class_05 result: iou/accuracy 0.9068/0.9368, name: Road.
+Class_06 result: iou/accuracy 0.1764/0.2104, name: Pedestrian.
+Class_07 result: iou/accuracy 0.5547/0.6526, name: Fence.
+Class_08 result: iou/accuracy 0.0000/0.0000, name: Column_Pole.
+Class_09 result: iou/accuracy 0.7529/0.8927, name: Sidewalk.
+Class_10 result: iou/accuracy 0.3869/0.7150, name: Bicyclist.
